@@ -4,7 +4,7 @@ musical-quine
 A musical quine.
 
 Quine
-----
+-----
 
 A [*quine*][quine], as popularized by [Douglas Hofstadter][douglas],
 is a
@@ -21,6 +21,14 @@ A musical quine
 > is non-empty computer program which takes sound as input and
 > produces a copy of its own source code while it is allowed to
 > produce sounds while executing.
+
+Idea
+----
+
+The idea explored in this project is to [sonify][sonification]
+characters of source code into tones and use a
+[Fourier transformation][fourier] to associate a tone of musical
+input to characters.
 
 Background
 ----------
@@ -40,6 +48,8 @@ presented itself to me.
 
 [quine]: http://en.wikipedia.org/wiki/Quine_%28computing%29
 [douglas]: http://en.wikipedia.org/wiki/Douglas_Hofstadter
+[sonification]: http://en.wikipedia.org/wiki/Sonification
+[fourier]: http://en.wikipedia.org/wiki/Fourier_transform
 [joc]: http://joyofcoding.org/
 [bonnie]: https://twitter.com/brindelle
 [chuck]: http://chuck.cs.princeton.edu/
