@@ -2,6 +2,7 @@
   (:gen-class))
 
 (defn -main
-  "A proto quine"
+  "A quine"
   [& args]
-  (println "A proto quine"))
+  (let [s "(ns musical-quine.core\n  (:gen-class))\n\n(defn -main\n  \"A quine\"\n  [& args]\n  (let [s %s]\n    (format s (pr-str s))))"]
+    (format s (pr-str s))))
