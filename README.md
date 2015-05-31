@@ -3,6 +3,15 @@ musical-quine
 
 A musical quine.
 
+Idea
+----
+
+A [*quine*][quine], as popularized by [Douglas Hofstadter][douglas],
+is a
+
+> non-empty computer program which takes no input and produces a copy
+> of its own source code as its only output.
+
 Background
 ----------
 
@@ -19,6 +28,8 @@ I found it a really cute idea, but had a hard time coming up with an
 angle of attack at the moment. Over the next few days a solution path
 presented itself to me.
 
+[quine]: http://en.wikipedia.org/wiki/Quine_%28computing%29
+[douglas]: http://en.wikipedia.org/wiki/Douglas_Hofstadter
 [joc]: http://joyofcoding.org/
 [bonnie]: https://twitter.com/brindelle
 [chuck]: http://chuck.cs.princeton.edu/
