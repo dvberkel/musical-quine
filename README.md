@@ -1,2 +1,4 @@
-# musical-quine
+musical-quine
+=============
+
 A musical quine.
