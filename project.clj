@@ -3,7 +3,8 @@
   :url "https://github.com/dvberkel/musical-quine"
   :license {:name "The MIT License (MIT)"
             :url "http://opensource.org/licenses/MIT"}
-  :dependencies [[org.clojure/clojure "1.6.0"]]
+  :dependencies [[org.clojure/clojure "1.6.0"]
+                 [overtone "0.9.1"]]
   :main ^:skip-aot musical-quine.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
