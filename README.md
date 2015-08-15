@@ -36,7 +36,7 @@ Background
 At [Joy of Coding][joc] 2015 I spoke with the brilliant
 [Bonnie Eisenman][bonnie]. She had given a workshop on musical
 programming with [ChucK][chuck]. We came to discuss an idea she
-attributed to [Chris Granger][chris], we gave the morning key note.
+attributed to [Chris Granger][chris], who gave the morning key note.
 
 The idea Chris had mentioned in his key note wat that of a *musical
 quine*. This idea really appealed to Bonnie so she ended up discussing
